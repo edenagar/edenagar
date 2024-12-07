@@ -58,7 +58,7 @@ Deep Learning, Machine Learning, Graph Neural Networks, Scientific Computing, So
 
 ---
 ### 🔗 Connect with Me:
-<!-- - [Personal Website 🌐]() -->
+- [Personal Website 🌐](https://edenagar.github.io)
 - [LinkedIn ✨](https://www.linkedin.com/in/edennagar/d)
 
 ---
